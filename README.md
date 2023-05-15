@@ -5,3 +5,4 @@ A 3D-printed case for the OpenHT handheld
 * STM32F469I-DISCO model used from here: https://grabcad.com/library/stm32-f469-discovery-kit-mcu-touch-display-1
 
 Note: Case designed in FreeCAD (Link Branch)
+* Assemblies are using the Assembly 4 workbench.
