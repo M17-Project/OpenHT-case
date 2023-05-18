@@ -8,14 +8,18 @@ Note: Case designed in FreeCAD (Link Branch)
 * Assemblies are using the Assembly 4 workbench.
 
 ## Gallery
+
+#### Left Empty
+<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/left_iso_empty.png"></center>
+
 #### Front
-<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/front_above.png" width="400"></center>
+<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/front_above.png"></center>
 
 #### Left
-<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/left_iso.png" width="400"></center>
+<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/left_iso.png"></center>
 
 #### Right
-<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/right_iso.png" width="400"></center>
+<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/right_iso.png"></center>
 
 #### Back
-<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/back.png" width="400"></center>
+<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/back.png"></center>
