@@ -11,6 +11,12 @@ Note: Case designed in FreeCAD (Link Branch)
 
 ## Gallery
 
+#### Front Print
+<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/blue_front.jpg" width="400"></center>
+
+#### Back w/Batt Print
+<center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/blue_back_batt.jpg" width="400"></center>
+
 #### Left Empty
 <center><img src="https://github.com/M17-Project/OpenHT-case/blob/main/views/left_iso_empty.png"></center>
 
